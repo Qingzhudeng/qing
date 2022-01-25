@@ -1,0 +1,17 @@
+00:00:00.601231 VirtualBox GUI VM Selector Window 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.601233 Log opened 2020-05-03T22:10:43.152696200Z
+00:00:00.601233 Build Type: release
+00:00:00.601236 OS Product: Windows 10
+00:00:00.601237 OS Release: 10.0.18363
+00:00:00.601238 OS Service Pack: 
+00:00:00.619282 DMI Product Name: 20SL
+00:00:00.628449 DMI Product Version: Lenovo ThinkBook 14-IIL
+00:00:00.628485 Firmware type: UEFI
+00:00:00.629049 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.629069 Host RAM: 7894MB (7.7GB) total, 2876MB (2.8GB) available
+00:00:00.629078 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.629079 Process ID: 16568
+00:00:00.629079 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.629761 Qt version: 5.6.2
+00:00:00.686055 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.686386 GUI: UIMediumEnumerator: Medium-enumeration finished!

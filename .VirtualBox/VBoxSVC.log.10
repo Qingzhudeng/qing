@@ -1,0 +1,133 @@
+00:00:00.001195 main     VirtualBox COM Server 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.001199 main     Log opened 2020-05-03T19:57:09.929938500Z
+00:00:00.001201 main     Build Type: release
+00:00:00.001210 main     OS Product: Windows 10
+00:00:00.001212 main     OS Release: 10.0.18363
+00:00:00.001213 main     OS Service Pack: 
+00:00:00.101673 main     DMI Product Name: 20SL
+00:00:00.119084 main     DMI Product Version: Lenovo ThinkBook 14-IIL
+00:00:00.119102 main     Firmware type: UEFI
+00:00:00.119470 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.119498 main     Host RAM: 7894MB (7.7GB) total, 3025MB (2.9GB) available
+00:00:00.119505 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.119506 main     Process ID: 15924
+00:00:00.119507 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.194146          VirtualBox: object creation starts
+00:00:00.194332          Home directory: 'C:\Users\aaber\.VirtualBox'
+00:00:00.194407          Installed Drivers:
+00:00:00.198231            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.6.37129)
+00:00:00.198725            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.6.37129)
+00:00:00.199108            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.6.37129)
+00:00:00.199494            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.6.37129)
+00:00:00.201472          Loading settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.203706          usbLibGetDevices: Starting USB device enumeration
+00:00:00.263044          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&ae81a4a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.263165          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&ae81a4a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.263286          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&ae81a4a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.265039          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.265160          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb6d9)
+00:00:00.265216          USB: Unknown USB device detected (idVendor: 0x04f3, idProduct: 0x0c4b)
+00:00:00.265251          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xc123)
+00:00:00.418728          HostDnsMonitor: initializing
+00:00:00.433672          HostDnsMonitor: updating information
+00:00:00.433699          HostDnsMonitor: old information
+00:00:00.433701            no server entries
+00:00:00.433702            no domain set
+00:00:00.433702            no search string entries
+00:00:00.433703          HostDnsMonitor: new information
+00:00:00.433703            server 1: 192.168.1.1
+00:00:00.433703            no domain set
+00:00:00.433704            no search string entries
+00:00:00.436078          VD: VDInit finished with VINF_SUCCESS
+00:00:00.437341          VirtualBox: object created
+00:00:01.614380          Import settings with version "1.16-macosx"
+00:00:01.614508          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'ubuntu-18.04-amd64'}, preserve=false aResultDetail=0
+00:00:01.614880          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Could not find file for the medium 'C:\Users\aaber\VirtualBox VMs\ubuntu-18.04-amd64\ubuntu-18.04-amd64-disk001.vmdk' (VERR_PATH_NOT_FOUND)}, preserve=false aResultDetail=-103
+00:00:01.672406          Import settings with version "1.16-macosx"
+00:00:01.672492          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'ubuntu-18.04-amd64'}, preserve=false aResultDetail=0
+00:00:01.672657          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Could not find file for the medium 'C:\Users\aaber\VirtualBox VMs\ubuntu-18.04-amd64\ubuntu-18.04-amd64-disk001.vmdk' (VERR_PATH_NOT_FOUND)}, preserve=false aResultDetail=-103
+00:00:41.510171 createImport Saving settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:41.532693 ApplImp  Saving settings file "C:\Users\aaber\VirtualBox VMs\ubuntu-18.04-amd64_1588535831562_72286\ubuntu-18.04-amd64_1588535831562_72286.vbox" with version "1.16-windows"
+00:00:41.536886 ApplImp  Saving settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:41.708870          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.708964          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.709397          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.709513          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.709620          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.709728          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.709834          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.709939          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.721806          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:41.792757          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.792844          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.792965          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.793072          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.793188          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.793297          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.793410          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.793515          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:41.801125          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:41.872785          Saving settings file "C:\Users\aaber\VirtualBox VMs\ubuntu-18.04-amd64_1588535831562_72286\ubuntu-18.04-amd64_1588535831562_72286.vbox" with version "1.16-windows"
+00:00:42.075410          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.075512          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.075636          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.075801          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.075972          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.076080          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.076195          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.076301          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.085659          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:42.152595          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.152684          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.152805          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.152910          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.153025          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.153181          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.153294          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.153399          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.160367          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:42.236082          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.236195          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.236395          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.236650          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.236837          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.236992          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.237210          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.237364          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.244965          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:42.400993          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401081          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401202          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401307          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401420          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401525          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401638          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.401741          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.408723          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:42.618389          Saving settings file "C:\Users\aaber\VirtualBox VMs\laravelproj\laravelproj.vbox" with version "1.16-windows"
+00:00:42.624397 SaveMediaReg Saving settings file "C:\Users\aaber\VirtualBox VMs\laravelproj\laravelproj.vbox" with version "1.16-windows"
+00:00:42.630132          Saving settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:42.697504          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.697591          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.697706          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.697801          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.697901          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.697994          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.698095          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.698188          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.704278          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:42.811907          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.811989          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.812101          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.812195          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.812295          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.812389          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.812490          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.812582          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE Controller'}, preserve=false aResultDetail=0
+00:00:42.819022          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:47.830291 main     VirtualBox: object deletion starts
+00:00:47.830797 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\aaber\VirtualBox VMs\laravelproj\ubuntu-18.04-amd64-disk001.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:47.832447 main     HostDnsMonitor: shutting down ...
+00:00:47.832547 main     HostDnsMonitor: shut down
+00:00:47.841037 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:47.841731 main     VirtualBox: object deleted

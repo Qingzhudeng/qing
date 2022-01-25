@@ -1,0 +1,42 @@
+00:00:00.002093 main     VirtualBox COM Server 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.002096 main     Log opened 2020-05-03T22:10:42.698751000Z
+00:00:00.002098 main     Build Type: release
+00:00:00.002107 main     OS Product: Windows 10
+00:00:00.002109 main     OS Release: 10.0.18363
+00:00:00.002110 main     OS Service Pack: 
+00:00:00.040273 main     DMI Product Name: 20SL
+00:00:00.062951 main     DMI Product Version: Lenovo ThinkBook 14-IIL
+00:00:00.063055 main     Firmware type: UEFI
+00:00:00.063892 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.063954 main     Host RAM: 7894MB (7.7GB) total, 2892MB (2.8GB) available
+00:00:00.063967 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.063968 main     Process ID: 14776
+00:00:00.063969 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.190712          VirtualBox: object creation starts
+00:00:00.191012          Home directory: 'C:\Users\aaber\.VirtualBox'
+00:00:00.191104          Installed Drivers:
+00:00:00.192687            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.6.37129)
+00:00:00.193258            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.6.37129)
+00:00:00.193552            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.6.37129)
+00:00:00.195204            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.6.37129)
+00:00:00.205345          Loading settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.218989          usbLibGetDevices: Starting USB device enumeration
+00:00:00.235529          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&ae81a4a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.235700          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&ae81a4a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.238444          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.238489          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb6d9)
+00:00:00.238529          USB: Unknown USB device detected (idVendor: 0x04f3, idProduct: 0x0c4b)
+00:00:00.370918          HostDnsMonitor: initializing
+00:00:00.389311          HostDnsMonitor: updating information
+00:00:00.389344          HostDnsMonitor: old information
+00:00:00.389346            no server entries
+00:00:00.389347            no domain set
+00:00:00.389347            no search string entries
+00:00:00.389348          HostDnsMonitor: new information
+00:00:00.389348            server 1: 192.168.1.1
+00:00:00.389349            no domain set
+00:00:00.389349            no search string entries
+00:00:00.392331          VD: VDInit finished with VINF_SUCCESS
+00:00:00.393321          VirtualBox: object created
+00:00:02.108001          Saving settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.118825          Saving settings file "C:\Users\aaber\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
